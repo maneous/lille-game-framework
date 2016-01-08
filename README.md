@@ -8,6 +8,7 @@ Damien Cassou.
 
 Pour lancer les tests, tapez :
 
+Modification Ousmane
 ```bash
 $ mvn test
 ```
